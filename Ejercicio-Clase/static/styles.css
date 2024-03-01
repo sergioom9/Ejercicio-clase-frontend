@@ -54,6 +54,15 @@ html {
   transition-property: background-color, border-color, color, fill, stroke;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
+}.postslist{
+  width: 100%;
+  height: 100%;
+}.index{
+  width: 100%;
+  height: 100%;
+}.AddPost{
+  width: 100%;
+  height: 100%;
 }
 .my-6 {
   margin-bottom: 1.5rem;

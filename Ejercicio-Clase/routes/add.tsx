@@ -30,7 +30,7 @@ export const handler: Handlers = {
 
 const Page = () => {
   return (
-    <div>
+    <div class="AddPost">
       <AddPost />
     </div>
   );
