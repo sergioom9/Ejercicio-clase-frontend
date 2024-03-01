@@ -6,6 +6,7 @@
 }
 * {
   margin: 0;
+  box-sizing: border-box;
 }
 button {
   color: inherit;
@@ -42,6 +43,9 @@ html {
   background-color: rgb(197, 184, 10);
   display: flex;
   flex-direction: column;
+  display: flex;
+  height: 100vh;
+  width: 250px;
   
 }.footer{
   background-color: gray;
