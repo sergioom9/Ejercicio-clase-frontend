@@ -29,7 +29,7 @@ video {
 }
 
 html {
-  background-image: linear-gradient(to bottom right, #0a493b, #000000);
+  background-image: linear-gradient(to bottom right, #6dddc5, #000000);
   background-size: cover;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
@@ -40,6 +40,7 @@ html {
   display:wrap;
 }.Menu{
   background-color: antiquewhite;
+  display: inline-block;
 }.footer{
   background-color: gray;
 }
